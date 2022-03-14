@@ -10,7 +10,7 @@ If you want to learn how to create it please follow below tutorial:
 
 https://www.youtube.com/watch?v=FzWG8jiw4XM&list=PLj-4DlPRT48k8TZ2ZjzbjnAq_wgIwsIab
 
-### Images of The Portfolio Website:
+### Images of the Website:
 
 
 
