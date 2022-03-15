@@ -1,6 +1,5 @@
 # NetFlix Clone UI for Mern Stack 
 
-This repository contains expressjs, mongodb and reactjs
 
 View Demo for UI👇: <br />
 https://fervent-lewin-7058fe.netlify.app/
