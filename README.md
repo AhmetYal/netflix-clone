@@ -1,4 +1,4 @@
-# NetFlix Clone with Mern Stack 
+# NetFlix Clone UI for Mern Stack 
 
 This repository contains expressjs, mongodb and reactjs
 
